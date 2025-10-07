@@ -51,6 +51,3 @@ php artisan serve
 
 Mohamad Alsasa
 Back-End Developer
-📧 Mohamadalsasa991@gmail.com
-
-💼 LinkedIn Profile
