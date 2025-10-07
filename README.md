@@ -23,7 +23,7 @@ A simple yet powerful **Blog Application** built with **Laravel** and **Blade**.
 git clone https://github.com/yourusername/laravel-crm.git
 
 # 2️⃣ Navigate into the project folder
-cd laravel-crm
+cd laravel-Blog
 
 # 3️⃣ Install dependencies
 composer install
@@ -45,12 +45,13 @@ php artisan migrate --seed
 
 # 8️⃣ Start local development server
 php artisan serve
----------------------------------------------
+```
 
 🧑‍💻 Developer
 
 Mohamad Alsasa
 Back-End Developer
+
 📧[Mohamadalsasa991@gmail.com](mailto:Mohamadalsasa991@gmail.com)
 
 💼[LinkedIn Profile](https://www.linkedin.com/in/mohamad-sasa-22011b250/)
